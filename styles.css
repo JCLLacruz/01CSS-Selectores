@@ -1,0 +1,54 @@
+h1 {
+    color: red;
+    font-size: 20px;;
+}
+
+p {
+    font-size: 16px;
+}
+
+a{
+    background-color: blue;
+}
+
+h2 {
+    color: green;
+    font-size: 18px;
+}
+
+section h2 {
+    color: blue;
+}
+
+article a {
+    color: black;
+    background-color: red;
+}
+
+article .parrafo {
+    color: yellow;
+}
+
+nav li a {
+    color: white;
+}
+
+nav li + li a {
+    color: green;
+}
+
+nav li + li + li a {
+    color: pink;
+}
+
+footer {
+    background-color: blueviolet;
+}
+
+footer p {
+    color: white;
+}
+
+footer p + p {
+    color: yellow;
+}
